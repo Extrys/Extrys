@@ -1,4 +1,5 @@
-- I’m currently working on Hyperstacks, Undead Citadel & a couple of frameworks
+- I’m currently working on [Hyperstacks](https://hyperstacksgame.com), [Undead Citadel](https://undeadcitadel.com) & a couple of frameworks
+- - 
 - 学习中文，当前水平：HSK3
 - Ask me about whatever gamedev related thing
 - The easiest way to reach me is on Discord, DiscordID ```extrys```
