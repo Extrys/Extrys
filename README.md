@@ -3,3 +3,6 @@
 - Ask me about whatever gamedev related thing
 - The easiest way to reach me is on Discord, DiscordID ```extrys```
 - If you like my work, consider following 😋
+
+---
+*:･ﾟ✧ I press **button**. Code go **brrrr**. Life go **UwU** ✧ﾟ･:*
