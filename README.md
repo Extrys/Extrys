@@ -5,4 +5,4 @@
 - If you like my work, consider following 😋
 
 ---
-*~✧　I press **button**. Code go **brrrr**. Life go **UwU**　✧~*
+*\~ ✧　I press **button**. Code go **brrrr**. Life go **UwU**　✧ \~*
