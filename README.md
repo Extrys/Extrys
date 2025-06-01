@@ -4,8 +4,9 @@
 - The easiest way to reach me is on Discord, DiscordID ```extrys```
 - If you like my work, consider following 😋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Extrys&show_icons=true&theme=material-palenight&include_all_commits=true&show=prs_merged_percentage&rank_icon=github&border_radius=30&custom_title=%20Extrys%27%20Fluffy%20Metrics&line_height=24&hide_title=true)
+![uCard](https://github.com/user-attachments/assets/0c102457-8bc9-4237-ae14-0ee6b8e76d07)
 
 
 ---
 *✧　I press **button**. Code go **brrrr**. Life go **UwU**　✧*
+
